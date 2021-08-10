@@ -1,3 +1,3 @@
 function Funcion() {
-    location.href = "";
+    location.href = "../PanMaker Pagina productos/index catalogo.html";
 }

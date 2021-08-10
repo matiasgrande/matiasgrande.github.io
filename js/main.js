@@ -1,0 +1,3 @@
+function Funcion() {
+    location.href = "";
+}
